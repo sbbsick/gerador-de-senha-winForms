@@ -279,9 +279,9 @@
             this.label8.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.label8.Location = new System.Drawing.Point(28, 312);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(291, 23);
+            this.label8.Size = new System.Drawing.Size(277, 23);
             this.label8.TabIndex = 16;
-            this.label8.Text = "Ticket - Cadastro de Usuário:";
+            this.label8.Text = "Ticket - Criação de Usuário:";
             // 
             // checkBoxCreateSpanish
             // 
