@@ -5,7 +5,7 @@
     <TargetFramework>net6.0-windows</TargetFramework>
     <Nullable>enable</Nullable>
     <UseWindowsForms>true</UseWindowsForms>
-	<ApplicationIcon>padlock_user_control.ico</ApplicationIcon>
+	<ApplicationIcon>Content\img\padlock_user_control.ico</ApplicationIcon>
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
