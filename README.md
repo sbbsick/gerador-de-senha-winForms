@@ -23,6 +23,7 @@
 * ### Senha padrão
 ![programnormalpass](https://user-images.githubusercontent.com/91994543/201490330-dba8b23f-1374-4829-b9da-2cbfedd4e5db.png)
 
+<hr>
 
 * ### Senha ticket
 ![ticketpass](https://user-images.githubusercontent.com/91994543/201490337-248cbec6-9689-4dac-b5e7-9e20f9ffcb11.png)
