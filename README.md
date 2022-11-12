@@ -30,7 +30,7 @@
 
 # LINKS
 
-* ### [Download do .exe](https://www.google.com)
+* ### [Download do .exe](https://www.mediafire.com/file/xgbfs3c2iq4avs9/GeradorDeSenhas.exe/file)
 
 
 
