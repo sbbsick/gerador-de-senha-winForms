@@ -10,7 +10,7 @@
 
 # USO
 
-* ### Gerar senha - Coloque os valores e selecione as opções desejadas e clique em Gerar.
+* ### Gerar senha - Coloque os valores e selecione as opções desejadas e clique em gerar.
 
 * ### Editar textbox - Clique duas vezes na textbox para ativar/desativar o modo edição.
 
