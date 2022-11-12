@@ -234,7 +234,7 @@
             // pictureBox4
             // 
             this.pictureBox4.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox4.Image")));
-            this.pictureBox4.Location = new System.Drawing.Point(629, 320);
+            this.pictureBox4.Location = new System.Drawing.Point(629, 332);
             this.pictureBox4.Name = "pictureBox4";
             this.pictureBox4.Size = new System.Drawing.Size(25, 14);
             this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -245,7 +245,7 @@
             // 
             this.checkBoxCreatePortuguese.AutoSize = true;
             this.checkBoxCreatePortuguese.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.checkBoxCreatePortuguese.Location = new System.Drawing.Point(534, 320);
+            this.checkBoxCreatePortuguese.Location = new System.Drawing.Point(534, 332);
             this.checkBoxCreatePortuguese.Name = "checkBoxCreatePortuguese";
             this.checkBoxCreatePortuguese.Size = new System.Drawing.Size(15, 14);
             this.checkBoxCreatePortuguese.TabIndex = 8;
@@ -277,7 +277,7 @@
             this.label8.AutoSize = true;
             this.label8.Font = new System.Drawing.Font("Verdana", 14.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point);
             this.label8.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.label8.Location = new System.Drawing.Point(28, 312);
+            this.label8.Location = new System.Drawing.Point(28, 324);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(277, 23);
             this.label8.TabIndex = 16;
@@ -287,7 +287,7 @@
             // 
             this.checkBoxCreateSpanish.AutoSize = true;
             this.checkBoxCreateSpanish.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.checkBoxCreateSpanish.Location = new System.Drawing.Point(608, 320);
+            this.checkBoxCreateSpanish.Location = new System.Drawing.Point(608, 332);
             this.checkBoxCreateSpanish.Name = "checkBoxCreateSpanish";
             this.checkBoxCreateSpanish.Size = new System.Drawing.Size(15, 14);
             this.checkBoxCreateSpanish.TabIndex = 9;
@@ -308,7 +308,7 @@
             // pictureBox2
             // 
             this.pictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox2.Image")));
-            this.pictureBox2.Location = new System.Drawing.Point(555, 320);
+            this.pictureBox2.Location = new System.Drawing.Point(555, 332);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(25, 14);
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -433,9 +433,9 @@
             this.label2.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.label2.Location = new System.Drawing.Point(28, 86);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(355, 23);
+            this.label2.Size = new System.Drawing.Size(354, 23);
             this.label2.TabIndex = 1;
-            this.label2.Text = "Quantidade de characters da senha:";
+            this.label2.Text = "Quantidade de caracteres da senha:";
             // 
             // label5
             // 
@@ -455,9 +455,9 @@
             this.label4.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.label4.Location = new System.Drawing.Point(28, 138);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(379, 23);
+            this.label4.Size = new System.Drawing.Size(378, 23);
             this.label4.TabIndex = 3;
-            this.label4.Text = "Gerar senha com characters especiais:";
+            this.label4.Text = "Gerar senha com caracteres especiais:";
             // 
             // panelTextBox
             // 
